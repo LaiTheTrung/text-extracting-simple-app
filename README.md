@@ -1,6 +1,5 @@
 # text-extracting-From Medical Label -app
-For using 
-INSTALL:
+For using  INSTALL: python 3.8/  torchvision 0.11.3 / pytorch 1.1.0
 
 MMOCR https://github.com/open-mmlab/mmocr
 
