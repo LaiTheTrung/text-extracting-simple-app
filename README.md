@@ -1,5 +1,15 @@
 # text-extracting-From Medical Label -app
-. Application design and apply
+For using 
+INSTALL:
+
+MMOCR https://github.com/open-mmlab/mmocr
+
+unwrap label https://github.com/Nepherhotep/unwrap_labels
+
+stitching https://github.com/OpenStitching/stitching
+
+Application design and apply
+
 1.1 Hardware:
 Logitech Camera C922 PRO HD STREAM WEBCAM (HD 1080p/30fps or 720p/60fps) 
 
