@@ -1,4 +1,4 @@
-# text-extracting-simple-app
+# text-extracting-From Medical Label -app
 . Application design and apply
 1.1 Hardware:
 Logitech Camera C922 PRO HD STREAM WEBCAM (HD 1080p/30fps or 720p/60fps) 
